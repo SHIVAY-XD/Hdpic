@@ -19,7 +19,7 @@ def access_key():
 
 Welcome_Msg = '''<b> Hey there </b>
 <b> I am The Wallpaper bot</b>🤖🤖🤖🤖
-<b> I Can Provide U with Some Cool Pics from unsplash.com</b>
+<b> I Can Provide U with Some Cool Pics from</b>
 <b>Hit /help to get Started</b> 🦾🦾🦾'''
 
 Help_Msg = '''Hit /random to get a random Image
